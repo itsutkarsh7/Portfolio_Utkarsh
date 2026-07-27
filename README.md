@@ -15,13 +15,9 @@
 ## 👨‍💻 About
 
 Personal portfolio website of **Utkarsh Singh** — a results-driven cybersecurity professional with 2+ years of hands-on experience in SOC operations, threat detection, incident response, and GRC compliance.
+Results-driven cybersecurity professional with hands-on experience in SOC operations, alert triage, incident response, and threat hunting across network flows and user behaviour indicators. Proficient in SIEM-based monitoring, phishing and email security analysis, malware behaviour investigation, and incident response playbook execution.
 
-- 🏆 **CSIC 1.0 National Finalist** — MeitY / DSCI, Government of India (Feb 2026)
-- 📄 **Published Researcher** — NeuroText accepted at ICCISCS 2026
-- 🎓 **B.Tech Computer Science** — AKGEC, Ghaziabad (2022–2026)
-- ⚡ Immediate Joiner | Open to SOC Analyst, GRC Analyst, CTI roles
-
----
+Skilled in Python scripting for security automation, log analysis (HTTP, SMTP, Network), and IOC/TTP investigation using the MITRE ATT&CK framework. Strong GRC foundation covering NIST, ISO 27001, and PCI-DSS compliance.
 
 ## 🚀 Tech Stack
 
