@@ -1,12 +1,136 @@
-# React + Vite
+<div align="center">
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🛡️ Utkarsh Singh — Cybersecurity Portfolio
 
-Currently, two official plugins are available:
+**SOC Analyst · GRC Analyst · Threat Hunter**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[![Live Site](https://img.shields.io/badge/Live%20Site-utkarshsinghportfolio.vercel.app-06b6d4?style=for-the-badge&logo=vercel&logoColor=white)](https://utkarshsinghportfolio.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-itsutkarsh7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsutkarsh7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Utkarsh%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-singh-a76622255)
 
-## Expanding the ESLint configuration
+</div>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 👨‍💻 About
+
+Personal portfolio website of **Utkarsh Singh** — a results-driven cybersecurity professional with 2+ years of hands-on experience in SOC operations, threat detection, incident response, and GRC compliance.
+
+- 🏆 **CSIC 1.0 National Finalist** — MeitY / DSCI, Government of India (Feb 2026)
+- 📄 **Published Researcher** — NeuroText accepted at ICCISCS 2026
+- 🎓 **B.Tech Computer Science** — AKGEC, Ghaziabad (2022–2026)
+- ⚡ Immediate Joiner | Open to SOC Analyst, GRC Analyst, CTI roles
+
+---
+
+## 🚀 Tech Stack
+
+| Layer | Technology |
+|---|---|
+| Framework | React 18 + Vite |
+| Styling | Tailwind CSS + Custom CSS |
+| Animations | Framer Motion |
+| Deployment | Vercel |
+| Package Manager | npm |
+
+---
+
+## 📁 Project Structure
+
+```
+src/
+├── assets/
+│   ├── img.jpg                  # Profile photo
+│   └── logos/                   # Company logos
+│       ├── zetheta.jpeg
+│       ├── ibm.jpeg
+│       ├── cloudx.jpeg
+│       └── incubator.jpeg
+├── components/
+│   ├── Navigation.jsx           # Fixed navbar with active section tracking
+│   ├── Hero.jsx                 # Landing section with typing terminal
+│   ├── About.jsx                # Profile card + stats
+│   ├── Skills.jsx               # Tabbed skills dashboard
+│   ├── Experience.jsx           # Company timeline with logos
+│   ├── Achievements.jsx         # CSIC, publications, awards
+│   ├── Vault.jsx                # Projects with filter tabs
+│   ├── Certificates.jsx         # Certifications grid
+│   ├── Contact.jsx              # Contact form + info
+│   └── Loader.jsx               # Animated loading screen
+├── App.jsx
+├── index.css                    # Design system + CSS variables
+└── main.jsx
+```
+
+---
+
+## ✨ Features
+
+- **Animated terminal** in Hero with live typing effect (SOC/GRC themed code)
+- **Tabbed Skills dashboard** — SOC & IR / Tools / GRC / Development
+- **Experience timeline** with real company logos (ZeTheta, IBM, CloudX)
+- **Filterable Projects** — filter by Cybersecurity / ML·AI / Full-Stack / Research
+- **CSS-only Matrix rain** background — zero JS animation overhead
+- **Expandable experience cards** — click to reveal full bullet points
+- **Working contact form** — opens mailto with pre-filled subject & message
+- **Responsive** — mobile, tablet, desktop
+- **Performance optimised** — CSS animations over Framer Motion where possible
+
+---
+
+## 🛠️ Run Locally
+
+**Prerequisites:** Node.js 18+ and npm
+
+```bash
+# Clone the repo
+git clone https://github.com/itsutkarsh7/Portfolio_Utkarsh.git
+cd Portfolio_Utkarsh
+
+# Install dependencies
+npm install
+
+# Start dev server
+npm run dev
+# → http://localhost:5173
+```
+
+**Build for production:**
+```bash
+npm run build
+```
+
+---
+
+## 📜 Sections
+
+| Section | Description |
+|---|---|
+| Hero | Animated typing terminal, role switcher, CTA buttons |
+| About | Profile photo card, bio, 5-stat summary |
+| Skills | Tabbed — SOC & IR, Tools, GRC, Development |
+| Experience | ZeTheta · IBM · CloudX · Software Incubator |
+| Projects | SOC Dashboard, Anomaly Detection, RPG Quest, NeuroText & more |
+| Certifications | SAL-1, Google Chronicle, Google, Cisco, IBM |
+| Achievements | CSIC 1.0 Finalist, ICCISCS 2026, Football |
+| Contact | Email, LinkedIn, GitHub, Phone |
+
+---
+
+## 📬 Contact
+
+| | |
+|---|---|
+| 📧 Email | utkarsh.singh1224@gmail.com |
+| 📱 Phone | +91 7007491114 |
+| 💼 LinkedIn | [utkarsh-singh-a76622255](https://www.linkedin.com/in/utkarsh-singh-a76622255) |
+| 🐙 GitHub | [itsutkarsh7](https://github.com/itsutkarsh7) |
+| 🌐 Portfolio | [utkarshsinghportfolio.vercel.app](https://utkarshsinghportfolio.vercel.app) |
+
+---
+
+<div align="center">
+
+Designed & Built by **Utkarsh Singh** · 2026
+
+</div>
